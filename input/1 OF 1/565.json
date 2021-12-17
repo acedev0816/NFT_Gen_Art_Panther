@@ -1,0 +1,42 @@
+{
+    "name": "Panthers In The Metaverse #565",
+    "symbol": "PITM",
+    "description": "3,333 bold Panther warriors on unique adventures exploring the Metaverse.",
+    "seller_fee_basis_points": 600,
+    "image": "565.png",
+    "external_url": "https://www.panthersitm.io",
+    "attributes": [
+        {
+            "trait_type": "Special",
+            "value": "Radioactive Panther"
+        }
+    ],
+    "edition": 565,
+    "collection": {
+        "name": "Panthers In The Metaverse",
+        "family": "Panthers In The Metaverse"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "565.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "GirW1QZhPT7BvWQ6iZfsVCoDhmztDfYddtXWH197Xyod",
+                "share": 50
+            },
+            {
+                "address": "41sMorVeHHVRnRpDXFpbh1iCtzmYFHS9cp8tarN7dy5S",
+                "share": 40
+            },
+            {
+                "address": "GGhVZyUEV7eurt3tvHUXq9z3wRMjBQq3pWLXTLoMXJgo",
+                "share": 10
+            }
+        ]
+    }
+}
